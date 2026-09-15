@@ -1,2 +1,2 @@
-# Libraray-Management-System-DBMS
+# Library-Management-System-DBMS
 Database Management System Project
